@@ -1,5 +1,5 @@
 
-![WhispeerYou](./fbea7019-8b36-45da-ad83-0dbf79009e1b.jpeg)
+![WhispeerYou](./imgs/fbea7019-8b36-45da-ad83-0dbf79009e1b.jpeg)
 
 
 多功能的 YouTube 视频下载和转录工具，使用 OpenAI 的 Whisper 模型进行音频转录。
@@ -54,12 +54,12 @@ DELETE_AUDIO=y
 python WhispeerYou.py
 ```
 
-![run](./SCR-20241213-lohm.png)
+![run](./imgs/SCR-20241213-lohm.png)
 3. 按照提示操作：
    - 选择是否使用 .env 文件的配置
    - 输入 YouTube 视频 URL（如果未在 .env 中设置）
 
-![result](./SCR-20241213-lorw.png)
+![result](./imgs/SCR-20241213-lorw.png)
 
 ## 输出文件
 
