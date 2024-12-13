@@ -1,0 +1,5 @@
+python-dotenv
+pytubefix
+openai-whisper
+langdetect 
+tqdm>=4.65.0 
