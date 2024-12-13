@@ -7,7 +7,7 @@
 
 ## Thanks
 
-![OpenAI-Whisper-YouTube-Downloader-Translator-Transcriber-Multitool](https://github.com/Ruinan-Ding/OpenAI-Whisper-YouTube-Downloader-Translator-Transcriber-Multitool)
+[OpenAI-Whisper-YouTube-Downloader-Translator-Transcriber-Multitool](https://github.com/Ruinan-Ding/OpenAI-Whisper-YouTube-Downloader-Translator-Transcriber-Multitool)
 
 ## 功能特点
 
